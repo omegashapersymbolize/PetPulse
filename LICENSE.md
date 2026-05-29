@@ -45,3 +45,4 @@ After retrieving the archive, decompress its contents into any folder. Navigate 
 
 ---
 **Disclaimer:** This software is an unofficial third-party enhancement. Use it responsibly within the game's environment. The developers are not affiliated with Roblox Corporation or the Adopt Me! development team.
+⁣
